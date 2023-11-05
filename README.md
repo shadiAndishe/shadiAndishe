@@ -3,7 +3,9 @@
 i'm ShadiAndishe, Computer vision Hardware engineer at [Pon](https://pon.com/en/) and graduated in master of computer science at [Sapienza di Roma University](https://www.uniroma1.it/en/pagina-strutturale/home)
 
 * My main interests are Computer Vision, Deep learning and Machine learning.
-
+* Projects done are in the following areas:
+Computer Vision Models like image Segmentation, Object Detection,... and and Image Analysis(Classical Approaches), Supervised Learning(Prediction, Regression, Time Series Forecasting) and Unsupervised Learning ( Clustering, anomaly detection,...)
+* Main programming languages for the projects is python and Main framework is Pytorch.
 
 <!--
 **shadiAndishe/shadiAndishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
