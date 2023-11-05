@@ -1,6 +1,6 @@
-### Hi 👋 i'm ShadiAndishe, Computer vision Hardware engineer at [Pon] (https://pon.com/en/) and graduated in master of computer science at [Sapienza di Roma University] (https://www.uniroma1.it/en/pagina-strutturale/home)
+### Hi 👋 
  
-
+i'm ShadiAndishe, Computer vision Hardware engineer at [Pon] (https://pon.com/en/) and graduated in master of computer science at [Sapienza di Roma University] (https://www.uniroma1.it/en/pagina-strutturale/home)
 
 <!--
 **shadiAndishe/shadiAndishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
