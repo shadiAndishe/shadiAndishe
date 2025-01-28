@@ -10,7 +10,7 @@ Computer Vision Models like image Segmentation, Object Detection,... and and Ima
 *I am looking forward to hear from you for any collaboration.
 
 CONTACT:
-Linkedin : www.linkedin.com/in/shadi-andishmand-computervisiondeveloper
+Linkedin : [www.linkedin.com/in/shadi-andishmand-computervisiondeveloper](https://www.linkedin.com/in/shadi-andishmand/)
 Email : andishmandshadi1991@gmail.com
 
 <!--
