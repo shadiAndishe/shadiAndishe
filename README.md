@@ -2,9 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Shadi%20Andishmand&fontSize=60&rotate=20
 )
 
-<a href="www.linkedin.com/in/shadi-andishmand">
-  <img height="50" src="![image](https://github.com/user-attachments/assets/4ba02997-8789-4920-b317-7c35bd4cb86d)
-"/>
+<a href="https://www.linkedin.com/in/shadi-andishmand">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/shadi_andishe/">
