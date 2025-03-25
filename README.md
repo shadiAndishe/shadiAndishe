@@ -1,7 +1,5 @@
 ### Hi 👋 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?text=Hi Everyone!)
  
 i'm ShadiAndishe, Computer vision Hardware engineer at [Pon](https://pon.com/en/) and graduated in master of computer science at [Sapienza di Roma University](https://www.uniroma1.it/en/pagina-strutturale/home)
 
