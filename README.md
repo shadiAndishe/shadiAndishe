@@ -1,7 +1,7 @@
 ### Hi 👋 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Shadi%20Andishmand&fontSize=60&rotate=20
 )
-![My Animation](assets/giffy.gif)
+![My Animation](assets/giphy.gif)
 
 
 <a href="https://www.linkedin.com/in/shadi-andishmand">
