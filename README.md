@@ -3,8 +3,7 @@
 )
 
 <a href="www.linkedin.com/in/shadi-andishmand">
-  <img height="50" src="![image](https://github.com/user-attachments/assets/ec3c45ed-b4a3-4dc3-a31a-c23a45ff9ef9)
-"/>
+  <img height="50" src="https://github.com/user-attachments/assets/ec3c45ed-b4a3-4dc3-a31a-c23a45ff9ef9.png"/>
 </a>
 
 <a href="https://www.instagram.com/shadi_andishe/">
