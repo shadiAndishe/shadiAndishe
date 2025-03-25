@@ -2,6 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Shadi%20Andishmand&fontSize=60&rotate=20
 )
 
+<a href="www.linkedin.com/in/shadi-andishmand">
+  <img height="50" src="![image](https://github.com/user-attachments/assets/ec3c45ed-b4a3-4dc3-a31a-c23a45ff9ef9)
+"/>
+</a>
+
 <a href="https://www.instagram.com/shadi_andishe/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
